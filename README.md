@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mastersanjeetkumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1D-EfhzG_WAgZHS9Lq_4Mbfcjl1dqdY10?usp=share_link](https://drive.google.com/drive/folders/1D-EfhzG_WAgZHS9Lq_4Mbfcjl1dqdY10?usp=share_link)
+- 📄 My Resume [https://drive.google.com/drive/folders/1D-EfhzG_WAgZHS9Lq_4Mbfcjl1dqdY10?usp=share_link](https://drive.google.com/drive/folders/1D-EfhzG_WAgZHS9Lq_4Mbfcjl1dqdY10?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
