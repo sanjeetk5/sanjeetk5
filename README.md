@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeetk5&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeetk5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeetk5" alt="sanjeetk5" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif">
 
 - 🌱 I’m currently learning **MERN**
 
