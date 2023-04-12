@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
+<img src="https://github.com/sanjeetk5/sanjeetk5/blob/main/gif%20banner.gif" align="center" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeetk5&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeetk5" /> </p>
 
