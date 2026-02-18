@@ -3,7 +3,7 @@
 👨🏾‍💼 Ask me about React , HTML , CSS , JavaScript , MongoDB , Node js , Express js<br>
 🔗 How to reach me - mastersanjeetkumar@gmail.com<br><br>
 📝 My Resume - https://drive.google.com/file/d/1XTgeTeIUXTIgDM_pC8o7zPk0X4z3bqbb/view?usp=sharing<br>
-🌐 My Portfolio - https://sanjeetk5.github.io/ <br>
+🌐 My Portfolio - https://sanjeetk5.github.io/portfolio <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeet-kumar-797230212/?originalSubdomain=in) 
