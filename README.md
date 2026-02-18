@@ -2,7 +2,7 @@
 🤷🏾 I'm an aspiring Full Stack Web Developer<br>
 👨🏾‍💼 Ask me about React , HTML , CSS , JavaScript , MongoDB , Node js , Express js<br>
 🔗 How to reach me - mastersanjeetkumar@gmail.com<br><br>
-📝 My Resume - https://drive.google.com/file/d/1XTgeTeIUXTIgDM_pC8o7zPk0X4z3bqbb/view?usp=sharing<br>
+📝 My Resume - https://drive.google.com/drive/folders/1D-EfhzG_WAgZHS9Lq_4Mbfcjl1dqdY10?usp=drive_link<br>
 🌐 My Portfolio - https://sanjeetk5.github.io/portfolio <br>
 
 ## 🌐 Socials:
